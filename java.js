@@ -36,5 +36,5 @@ function calculateTip() {
   //click to call function
   document.getElementById("calculate").onclick = function() {
     calculateTip();
-  
+    alert("Complete");
   };
